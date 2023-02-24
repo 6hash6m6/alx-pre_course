@@ -1,2 +1,3 @@
-vim README.md then added updated string at the end of first line
-then saved/quitted file using :wq command
+Selected README.md from main branch in github.com then added a new line
+added the commit message: How to be up to date in git
+press commit to main branch
